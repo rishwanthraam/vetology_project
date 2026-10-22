@@ -1,0 +1,37 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and API keys
+.env
+.env.*
+
+# Excel and dataset files
+*.xlsx
+*.xls
+*.csv
+*.parquet
+
+# PDF files
+*.pdf
+
+# Dataset and data directories
+data/
+dataset/
+datasets/
+input/
+output/
+
+# Generated evaluation results
+canine_thorax_evaluation_results.xlsx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
